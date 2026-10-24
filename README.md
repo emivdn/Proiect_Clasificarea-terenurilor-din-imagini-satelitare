@@ -1,0 +1,1 @@
+# Proiect_Clasificarea-terenurilor-din-imagini-satelitare
