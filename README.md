@@ -1,4 +1,4 @@
-# Proiect_Clasificarea-terenurilor-din-imagini-satelitare
+# Proiect Clasificarea-terenurilor-din-imagini-satelitare
 
 Proiectul urmărește clasificarea automată a unei imagini satelitare în una dintre
 cele 10 categorii de teren din EuroSAT. Se va implementa în Python/PyTorch o rețea
